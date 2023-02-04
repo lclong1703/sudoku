@@ -65,5 +65,4 @@ class Validate {
         }
         return true;
     }
-
 }

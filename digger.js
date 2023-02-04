@@ -132,12 +132,6 @@ class Digger {
             }
 			
         }
-		
         return availCells
     }
-
-
-    
-    
-
 }

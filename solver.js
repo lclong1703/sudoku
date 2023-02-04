@@ -336,5 +336,4 @@ class Solver {
         let resultValidator = new Validate(this.board,this.boardSize);
         return resultValidator.runTests()
     }
-
 }
